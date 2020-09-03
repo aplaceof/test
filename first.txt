@@ -1,4 +1,8 @@
 this is  the first.txt 
 a new line 
 push local 
+<<<<<<< HEAD
 2
+=======
+1
+>>>>>>> 97af0e3feeb4aa41280dc9dea5d7083f8482c23d
