@@ -1,5 +1,4 @@
 this is  the first.txt 
 a new line 
 push local 
-push from remote
-
+push from  remote 
