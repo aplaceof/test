@@ -1,5 +1,2 @@
 1.txt
-<<<<<<< HEAD
-test w
-=======
->>>>>>> b2c27108e559ce67da89e273f2ebaddf6ad1ceed
+master 
